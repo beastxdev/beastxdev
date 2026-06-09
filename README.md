@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm BeastX
 
-<!--
-**beastxdev/beastxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student Developer from Kerala, India
 
-Here are some ideas to get you started:
+### 💻 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Flutter Apps
+* Node.js Backends
+* Minecraft Plugins
+* Unity Games
+* Discord Bots
+
+### 🚀 Current Projects
+
+* 🎵 Wavelet Music App (free and no premium needed)
+* 🚌 MY KOCHI (bus and news tracking)
+* 🎓 TrackD in App (Educational Progress Tracker)
+* ⚔️ PluginRegion(a mc plugin for gamemode combined smp)
+* ✨ Swargam Launcher (Custom Highly Optimised Mc Launcher)
+
+### 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Node.js
+* JavaScript
+* Java
+* Unity
+* Git & GitHub
+
+### 📈 Goals
+
+* Launch successful apps
+* Contribute to open source
+* Build useful software for the community
+
+⭐ Check out my repositories below!

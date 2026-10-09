@@ -22,17 +22,37 @@
 
 ## > whoami
 
-I'm a student developer from Kerala, India, who loves turning ideas into useful software. I build Flutter apps, Node.js backends, Minecraft plugins, Discord bots, and game prototypes.
+I'm **BeastX**, a student developer from Kerala, India, building apps, backends, Minecraft tools, and games.
 
-```js
-const beastX = {
-  role: "Student Developer",
-  location: "Kerala, India",
-  building: ["Wavelet", "MY KOCHI", "TrackD In"],
-  interests: ["Mobile Apps", "Backend", "Minecraft", "Games"],
-  motto: "Learn. Build. Ship. Improve."
-};
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+📱 **APP DEVELOPMENT**
+
+Flutter · Dart
+
+</td>
+<td align="center" width="33%">
+
+⚡ **BACKEND & WEB**
+
+Node.js · JavaScript
+
+</td>
+<td align="center" width="33%">
+
+🎮 **GAMES & MINECRAFT**
+
+Unity · Java
+
+</td>
+</tr>
+</table>
+
+**Currently building:** Wavelet · MY KOCHI · TrackD In
+
+<blockquote>Learn by building. Improve by shipping.</blockquote>
 
 ## > tech_stack --all
 

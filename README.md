@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:312e81,100:7c3aed&height=230&section=header&text=BEAST%20X&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=CODE.%20CREATE.%20REPEAT.&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="BEAST X animated purple header" />
 
@@ -157,3 +157,4 @@ A custom Minecraft launcher project focused on a streamlined player experience.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:09090b&height=130&section=footer" width="100%" alt="Purple animated footer" />
 
 </div>
+](https://discord.com/)
